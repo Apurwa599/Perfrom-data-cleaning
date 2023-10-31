@@ -9,7 +9,7 @@ Standardize data formats and values for consistency.
 Enhance the overall quality and reliability of the dataset.
 
 ##  tools and library
-In this project,using python libraries and data cleaning function.
+In this project,using python libraries and data cleaning function:
 Library- import pandas as pd
          import numpy as np
          import sklearn
