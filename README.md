@@ -9,12 +9,12 @@ Standardize data formats and values for consistency.
 Enhance the overall quality and reliability of the dataset.
 
 ##  tools and library
-In this project,using python libraries and data cleaning funct        ion.
-        Library- import pandas as pd
-	         import numpy as np
-	         import sklearn
-                 import seaborn as sns
-	Function- isnull(), fillna(),dropna(),replace(),interpolate(),IQR method.
+In this project,using python libraries and data cleaning function.
+Library- import pandas as pd
+         import numpy as np
+         import sklearn
+         import seaborn as sns
+Function- isnull(), fillna(),dropna(),replace(),interpolate(),IQR method.
 
 				
 
